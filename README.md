@@ -1,7 +1,7 @@
 # 30YXLINBO_RESONATOR_COMSOL
 En este repositorio se incluyen los proyectos, codigo y matrices obtenidas de la caracterización de un resonador acustico 30ºYX LinBo03.
 Tambien se adjunta una copia del trabajo de final de master de caracterización de dicho resonador y las simulaciones para el resonador a 7.5GHz.
-
+![ImgComsol](https://github.com/[username]/[reponame]/blob/[branch]/Resonancia_3D.jpg?raw=true)
 ### El software utilizado
 Simulacion 1D:
 - ADS: solicitado licencia de estudiante.
